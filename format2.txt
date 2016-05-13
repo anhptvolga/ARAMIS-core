@@ -1,0 +1,26 @@
+2
+speed
+0.5
+very fast
+fast
+normal
+slow
+
+comport
+0.3
+[1, 10]
+
+3
+ford . lada . toyota
+
+very fast .  9
+fast . 8
+slow . 5
+
+very fast . 9
+slow . 7
+fast . 6
+
+very fast . 9
+fast . 6
+normal . 6
