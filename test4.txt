@@ -1,0 +1,32 @@
+2
+speed
+0.1
+very fast
+fast
+normal
+slow
+
+comport
+0.3
+[1, 10]
+
+3
+3
+ford
+speed . fast . 1
+speed . normal . 2
+comport . 3 . 1
+comport . 1 . 2
+
+lada
+speed . fast . 2
+speed . slow . 1
+comport . 8 . 1
+comport . 7 . 1
+comport . 6 . 1
+
+toyota
+speed . slow . 2
+speed . normal . 1
+comport . 5 . 1
+comport . 6 . 2
